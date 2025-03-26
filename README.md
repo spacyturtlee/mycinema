@@ -15,7 +15,7 @@ Base de données MySQL
 PHP PDO activé
 Installation
 
-Importer la base de données SQL fournie (non incluse dans ce dépôt)
+Importer la base de données SQL fournie 
 Configurer les paramètres de connexion à la base de données dans le fichier bd.php
 Placer tous les fichiers dans le répertoire approprié de votre serveur web
 Structure de la Base de Données
